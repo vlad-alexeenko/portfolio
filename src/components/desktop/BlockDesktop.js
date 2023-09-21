@@ -51,7 +51,7 @@ const Text2 = styled.li`
     font-weight: 500;
     line-height: normal; 
     margin: 0px 0px 10px 10px;
-    text-align: justify;
+    text-align: inherit;
 `;
 
 const Picture = styled.img`
