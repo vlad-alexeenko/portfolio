@@ -13,9 +13,9 @@ const FeaturedProjects = () => {
         <MainBlock>
             <AboutMe>
                 <Header>Featured projects:</Header>
-                <Description>I have worked on many projects over the course of being a Software Engineer in Test, here are a few of my live, real-world projects:</Description>
+                <Description>I have worked on many projects while being a Software Engineer in Test, here are a few of my live, real-world projects:</Description>
                 <Flex>
-                <Project text="Opportunity@Work" text2="Functional, Integration and Regression testing for every new ticket (Cypress.io & JS). I brought and implemented for that project great standards of test plans and reports for regression testing coverage." link="https://www.stellarworx.org/" imageSrc={Stellarworx} altText="Stellarworx logo"/>
+                <Project text="Opportunity@Work" text2="Functional, Integration and Regression testing for every new ticket (Cypress.io & JS). I brought and implemented great standards of test plans and reports for regression testing coverage for that project." link="https://www.stellarworx.org/" imageSrc={Stellarworx} altText="Stellarworx logo"/>
                 <Project text="Cubionic" text2="Frontend development (React & TS), API testing, Functional and Smoke testing. On that project, I created a Postman collection for API automation testing & interaction. Performed frontend development tasks." link="https://cubionic.com/" imageSrc={Cubionic} altText="Stellarworx logo"/>
                 <Project text="My Tablo" text2="Functional, API testing. Smoke and Regression testing (Appium & JS). I used my knowledge of equivalence classes for regression coverage that helped us save time and money with the same high level of quality." link="https://www.outsetmedical.com/" imageSrc={MyTablo} altText="Stellarworx logo"/>
                 </Flex>

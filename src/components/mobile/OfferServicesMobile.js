@@ -21,8 +21,8 @@ const OfferServicesMobile = () => {
                 <BlockMobile text="WEB DEVELOPMENT" text2="Frontend development using React (JS/TS) and Rails (JS/Ruby)." text3="Understanding the development methodologies and testing strategies." imageSrc={WebDev} altText="Ruler Img" />
                 </Flex>
                 <Flex>
-                <BlockMobile text="MOBILE TESTING & DEVELOPMENT" text2="Frontend development using React Native (JS/TS)." text3="Development of an automation test suites (Appium & JavaScript with Node. js)." imageSrc={MobileDev} altText="Ruler Img" />
-                <BlockMobile text="VERSION CONTROL" text2="I can use version control systems well." text3="Tools: github & bitbucket." imageSrc={Git} altText="Version Control System" />
+                <BlockMobile text="MOBILE TESTING & DEVELOPMENT" text2="Frontend development using React Native (JS/TS)." text3="Development of an automated test suites (Appium & JavaScript with Node. js)." imageSrc={MobileDev} altText="Ruler Img" />
+                <BlockMobile text="VERSION CONTROL" text2="Familiarity with the version control systems." text3="Tools: github & bitbucket." imageSrc={Git} altText="Version Control System" />
                 </Flex>
                 <Flex>
                 <BlockMobile text="UNIT TESTING" text2="Familiarity with the test-driven development process." text3="Tools: RSpec (Ruby), Jest/React Testing Library (JS)." imageSrc={JS} altText="JS" />
