@@ -9,7 +9,7 @@ import SquareMobile from "./SquareMobile";
 
 const AboutMeMobile = () => {
     
-    const [year, setYear] = useState(4);
+    const [year, setYear] = useState(5);
 
     function increase() {
        setYear(year+1);

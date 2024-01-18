@@ -9,7 +9,7 @@ import APITesting from '../pictures/Code1.png';
 
 const AboutMeDesktop = () => {
     
-    const [year, setYear] = useState(4);
+    const [year, setYear] = useState(5);
 
     function increase() {
        setYear(year+1);
