@@ -129,6 +129,7 @@ const Description = styled.span`
 const MainDiv = styled.div`
   display: flex;
   margin-top: 15px;
+  min-height: 310px;
 `;
 
 const Columns = styled.div`
